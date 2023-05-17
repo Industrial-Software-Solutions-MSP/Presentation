@@ -1,8 +1,9 @@
 # Presentation
 This repo includes the Project Presentation
 
-[Presentation PDF Link](<insert pdf github link>)
-  * This is a PDF of the presentation
+<!-- [Presentation PDF Link](<insert pdf github link>) -->
+[Google Slides Presentation Link](https://docs.google.com/presentation/d/1krDQxda6PCt4subZLlfZ_qkBHJnDvuQp9GFdOxauoPs/edit?usp=sharing)
+<!-- * This is a PDF of the presentation -->
 
 [This will be a link to a video](<presentation video link url>)
   * This is a recording of our Project Presentation
