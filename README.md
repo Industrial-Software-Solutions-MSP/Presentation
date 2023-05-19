@@ -1,9 +1,8 @@
 # Presentation
 This repo includes the project presentation slides, a video of our presentation, and key administrative tools that faciltiated project completion.
 
-<!-- [Presentation PDF Link](<insert pdf github link>) -->
-[Google Slides Presentation Link](https://docs.google.com/presentation/d/1krDQxda6PCt4subZLlfZ_qkBHJnDvuQp9GFdOxauoPs/edit?usp=sharing)
-<!-- * This is a PDF of the presentation -->
+[Presentation PDF Link](https://github.com/Industrial-Software-Solutions-MSP/Presentation/blob/main/Presentation%20Slides.pdf)
+* This is a PDF of the presentation
 
 [This will be a link to a video](<presentation video link url>)
   * This is a recording of our Project Presentation
