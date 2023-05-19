@@ -4,8 +4,8 @@ This repo includes the project presentation slides, a video of our presentation,
 [Presentation PDF Link](https://github.com/Industrial-Software-Solutions-MSP/Presentation/blob/main/Presentation%20Slides.pdf)
 * This is a PDF of the presentation
 
-[This will be a link to a video](<presentation video link url>)
-  * This is a recording of our Project Presentation
+[Presentation Video Link](https://zoom.us/rec/share/II_VEfS0VIf0ty3RFjgV0JSWp1iebJn2w-tF9C5NrgbY8EFNgHiotTmLWyKcH85e.Jzp0LPRL5d3ISxP5)
+  * This is a recording of our Project Presentation, starts at 16:20.
 
 ## Admin Files
 
